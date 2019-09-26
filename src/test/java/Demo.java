@@ -11,6 +11,7 @@ public class Demo {
     public void demo1(){
         System.setProperty("webdriver.chrome.driver","C:\\Users\\admin\\Downloads\\chromedriver_win32\\chromedriver.exe");
         driver = new ChromeDriver();
+        //ketan patel
        // WebDriverManager.firefoxdriver().setup();
         //System.setProperty("webdriver.gecko.driver","C:\\Users\\admin\\Downloads\\geckodriver-v0.25.0-win64\\geckodriver.exe");
         //driver = new FirefoxDriver();
